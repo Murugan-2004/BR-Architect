@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+header {
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.16);
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    padding: 8px 16px;
+    z-index: 1;
+}
+.tec {
+    float: left;
+    text-decoration: none;
+    color: black;
+    padding: 8px 16px;
+    letter-spacing: 4px;
+}
+li {
+    display: inline;
+}
+ul > li > a {
+    float: right;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    padding: 8px 16px; 
+    letter-spacing: 4px;
+}
+a:hover {
+    background-color: rgb(202, 200, 200) ;
+}
+.pic {
+    position: relative;
+}
+.arch {
+    position: absolute;
+    top: 49%;
+    right: 40%;
+    font-size: 40px;
+    color: white;
+    letter-spacing: 4px;
+}
+.br {
+    background-color: black;
+    padding: 8px 14px;
+    opacity: 0.75;
+}
+.space {
+    padding: 50px 30px 40px 30px;
+}
+.jet {
+    color: black;
+    font-size: 25px;
+    padding-bottom: 18px;
+}
+hr {
+    opacity: 0.2;
+}
+.row {
+    display: flex;
+}
+.col-25 {
+    width: 25%;
+}
+.sum {
+    position: relative;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    filter: grayscale(75%);
+}
+.summer {
+    position: absolute;
+    bottom: 86.5%;
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    font-size: 15px;
+}
+.use {
+    position: relative;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    filter: grayscale(75%);
+}
+.brick {
+    position: absolute;
+    bottom: 86.5%;
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    font-size: 15px;
+
+}
+.no {
+   position: relative;
+   padding-bottom: 10px; 
+   padding-left: 30px;
+   filter: grayscale(75%);
+}
+.renovated {
+    position: absolute;
+    bottom: 86.5%;
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    font-size: 15px;
+
+}
+.barn {
+   position: relative;
+   padding-bottom: 10px;
+   padding-left: 30px;
+   filter: grayscale(75%);
+}
+.house {
+    position: absolute;
+    bottom: 86.5%;
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    font-size: 15px;
+
+}
+.sit {
+    padding-top: 15px;
+    padding-right: 240px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 600;
+}
+.do {
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.ceo {
+    padding-top: 15px;
+    opacity: 0.60;
+}
+.eget {
+    font-weight: 600;
+    padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+.act {
+    color: black;
+    text-decoration: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 150px 10px 150px;
+    cursor: pointer;
+}
+.active:hover {
+    text-decoration: none;
+    background-color: lightgray;
+}
+.get {
+    color: black;
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight: 600;
+}
+form {
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.name {
+    padding: 10px;
+    width: 98%;
+    opacity: 0.5;
+}
+.email {
+     padding: 10px;
+     width: 98%;
+     opacity: 0.5;
+}
+.subject {
+     padding: 10px;
+     width: 98%;
+     opacity: 0.5;
+}
+.comment {
+     padding: 10px;
+     width: 98%;
+     opacity: 0.5;
+}
+.set {
+    padding-bottom: 10px;
+}
+.old {
+    padding: 6px;
+    color: #ccc ;
+}
+.send {
+     padding-bottom: 10px;
+     padding-left: 30px;
+}
+.button {
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+.button:hover {
+    color: black;
+    background-color: rgb(173, 172, 172);
+    border: none;
+}
+.map {
+    padding: 10px 30px;
+}
+.w3 {
+    text-align: center;
+    padding: 35px;
+    background-color: black;
+    font-size: 15px;
+}
+.power {
+    text-align: center;
+    color: white;
+}
+.css {
+    color: white;
+}
+.css:hover {
+    color: green;
+    background-color: transparent;
+}
+.sum-1 {
+     position: relative;
+     padding-bottom: 10px;
+     padding-left: 30px;
+}
+.use-2 {
+     position: relative;
+     padding-bottom: 10px;
+     padding-left: 30px;
+}
+.no-3 {
+     position: relative;
+     padding-bottom: 10px;
+     padding-left: 30px;
+}
+.barn-4 {
+     position: relative;
+     padding-bottom: 10px;
+     padding-left: 30px;
+}
+
